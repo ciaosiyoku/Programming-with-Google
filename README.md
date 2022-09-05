@@ -1,2 +1,1 @@
-# Programming-with-Google-Go-Specialization-0-of-3-completed
-University of California, Irvine
+# Programming-with-Google-Go-Specialization by University of California, Irvine
